@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\bin\Debug\projetoOOExemplo2.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\bin\Debug\projetoOOExemplo2.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\bin\Debug\projetoOOExemplo2.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\projetoOOExemplo2\projetoOOExemplo2\obj\Debug\projetoOOExemplo2.pdb

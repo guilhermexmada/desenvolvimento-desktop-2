@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\bin\Debug\POO_Salario.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\bin\Debug\POO_Salario.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\bin\Debug\POO_Salario.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_Salario\POO_Salario\obj\Debug\POO_Salario.pdb

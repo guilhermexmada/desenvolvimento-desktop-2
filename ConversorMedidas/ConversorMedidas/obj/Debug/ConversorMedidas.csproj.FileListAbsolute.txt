@@ -1,0 +1,10 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\bin\Debug\ConversorMedidas.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\bin\Debug\ConversorMedidas.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\bin\Debug\ConversorMedidas.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.MetrosPes.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ConversorMedidas\ConversorMedidas\obj\Debug\ConversorMedidas.pdb

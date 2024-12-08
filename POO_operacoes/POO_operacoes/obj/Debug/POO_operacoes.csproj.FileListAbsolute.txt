@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\bin\Debug\POO_operacoes.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\bin\Debug\POO_operacoes.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\bin\Debug\POO_operacoes.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.box.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_operacoes\POO_operacoes\obj\Debug\POO_operacoes.pdb

@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\bin\Debug\ProjetoOrientadoObjetos.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\bin\Debug\ProjetoOrientadoObjetos.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\bin\Debug\ProjetoOrientadoObjetos.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoOrientadoObjetos\ProjetoOrientadoObjetos\obj\Debug\ProjetoOrientadoObjetos.pdb

@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\bin\Debug\poo_temperatura.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\bin\Debug\poo_temperatura.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\bin\Debug\poo_temperatura.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\poo_temperatura\poo_temperatura\obj\Debug\poo_temperatura.pdb

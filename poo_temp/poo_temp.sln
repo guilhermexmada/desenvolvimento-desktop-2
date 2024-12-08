@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poo_temp", "poo_temp\poo_temp.csproj", "{42575CA7-CAC0-4334-86D5-4270C2954C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42575CA7-CAC0-4334-86D5-4270C2954C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42575CA7-CAC0-4334-86D5-4270C2954C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42575CA7-CAC0-4334-86D5-4270C2954C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42575CA7-CAC0-4334-86D5-4270C2954C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

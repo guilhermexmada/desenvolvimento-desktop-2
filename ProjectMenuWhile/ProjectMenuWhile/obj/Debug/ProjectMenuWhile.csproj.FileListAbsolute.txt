@@ -1,0 +1,10 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\bin\Debug\ProjectMenuWhile.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\bin\Debug\ProjectMenuWhile.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\bin\Debug\ProjectMenuWhile.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.Frm_Tabuada.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjectMenuWhile\ProjectMenuWhile\obj\Debug\ProjectMenuWhile.pdb

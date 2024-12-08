@@ -1,0 +1,9 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\bin\Debug\POO_AreaTrapezio.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\bin\Debug\POO_AreaTrapezio.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\bin\Debug\POO_AreaTrapezio.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\POO_AreaTrapezio\POO_AreaTrapezio\obj\Debug\POO_AreaTrapezio.Trapézio.resources

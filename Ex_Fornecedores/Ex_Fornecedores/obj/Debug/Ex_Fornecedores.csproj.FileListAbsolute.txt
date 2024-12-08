@@ -1,0 +1,62 @@
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.exe.config
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.exe
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.pdb
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.Form1.resources
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.FrmConsultar.resources
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.Properties.Resources.resources
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.exe
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.pdb
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\MySql.Data.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Buffers.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Memory.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\ZstdNet.dll
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\MySql.Data.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Buffers.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Memory.xml
+C:\Users\ds-mod-2\Desktop\DS-Prof Luiz\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ex_Fornecedores.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\MySql.Data.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Buffers.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Memory.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\ZstdNet.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\MySql.Data.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Buffers.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Memory.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.FrmConsultar.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\Ex_Fornecedores\Ex_Fornecedores\obj\Debug\Ex_Fornecedores.csproj.GenerateResource.Cache

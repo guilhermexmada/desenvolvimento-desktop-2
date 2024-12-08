@@ -1,0 +1,36 @@
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\ProjetoCRUDBD.exe.config
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\ProjetoCRUDBD.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\ProjetoCRUDBD.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\MySql.Data.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Buffers.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Memory.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\ZstdNet.dll
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\MySql.Data.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Buffers.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Memory.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.Form1.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.FrmConsultar.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.Properties.Resources.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.exe
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.pdb
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.FrmAlterar.resources
+C:\Users\ds-mod-2\OneDrive - Etec Centro Paula Souza\Documentos\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.frmExcluir.resources
+D:\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\bin\Debug\ProjetoCRUDBD.exe.config
+D:\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.exe
+D:\Guilherme Shimada Pereira\DS Luis\ProjetoCRUDBD\ProjetoCRUDBD\obj\Debug\ProjetoCRUDBD.pdb
